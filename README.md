@@ -12,3 +12,14 @@ Afficher les patients
 Faire la pagination
 Chercher les patients
 Supprimer un patient
+
+
+![tp3](https://github.com/user-attachments/assets/6739b4d3-8981-42e8-8df9-dd5311dea962)
+
+
+
+![1](https://github.com/user-attachments/assets/b49c11ba-fca6-4845-819a-ef684c8f64f0)
+
+
+
+![2](https://github.com/user-attachments/assets/9a84d04a-a95a-4d74-84a0-386fa29de226)
